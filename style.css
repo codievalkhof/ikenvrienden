@@ -16,4 +16,14 @@ body{
     height: 10vh;
     background-color: white;
     border: black solid 5px;
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: white solid 2px;
+}
+
+.navigation a{
+    color: white
 }
