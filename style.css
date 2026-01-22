@@ -6,6 +6,8 @@
 
 body{
     background-color: black;
+    font-size: 2rem; color: white;
+    background-color: rgb(0, 0, 0);
 }
 
 .headergit{
@@ -27,5 +29,5 @@ body{
 }
 
 .navigation a{
-    color: white
+    color: white;
 }
