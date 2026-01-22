@@ -4,6 +4,6 @@
     box-sizing: content-box;
 }
 
-body{
-    background-color: black;
+body{font-size: 2rem; color: white;
+    background-color: rgb(0, 0, 0);
 }
